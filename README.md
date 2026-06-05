@@ -101,6 +101,9 @@ CREATE TABLE github_profiles (
 
 ---
 
+## Live Demo Link : 
+https://educase-jnda.vercel.app/
+
 ## API Endpoints
 
 ### Analyze GitHub Profile
@@ -160,9 +163,6 @@ This score provides a simple indicator of GitHub profile activity and community 
 
 ---
 
-## Live Demo Link : https://educase-jnda.vercel.app/
-
----
 ## Project Structure
 
 EDUCASEJNDA/
